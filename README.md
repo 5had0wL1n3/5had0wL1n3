@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @5had0wL1n3
-- 👀 I’m interested in Making games.
-- 🌱 I’m currently learning Coding (java, lua script) and getting my own ideas .-_.-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello There, Im 5had0wL1n3
+- 👀 Currently I am intrested in game development and Scripting
+- 🌱 I’m learning java and lua right now
+- 💞️ I am colaborationg with a close friend on a vr game
+- 📫 How to reach me (don't)
 
 <!---
 5had0wL1n3/5had0wL1n3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
